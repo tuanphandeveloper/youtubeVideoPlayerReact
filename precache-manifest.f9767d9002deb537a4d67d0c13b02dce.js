@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e88651eddf10e9f2ef99f4922d586ce",
+    "revision": "cc2b0cf3489423efd1bd3c202538b2d1",
     "url": "/youtubeVideoPlayerReact/index.html"
   },
   {
-    "revision": "5069559fcf2306d7f067",
+    "revision": "8653b697e9ae36bca421",
     "url": "/youtubeVideoPlayerReact/static/css/main.8ad48a67.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/youtubeVideoPlayerReact/static/js/2.50de70c3.chunk.js"
   },
   {
-    "revision": "5069559fcf2306d7f067",
-    "url": "/youtubeVideoPlayerReact/static/js/main.9b684704.chunk.js"
+    "revision": "8653b697e9ae36bca421",
+    "url": "/youtubeVideoPlayerReact/static/js/main.3c2a6b28.chunk.js"
   },
   {
     "revision": "259ffa30a25f33a29c03",
