@@ -2,7 +2,7 @@
 
 https://tuanphandeveloper.github.io/youtubeVideoPlayerReact/
 
-this project was create from a react online course,
+this project was create from a online react course,
 I used it to test github pages and react deployment capabilities
 
 click on the link above to check out the video player
